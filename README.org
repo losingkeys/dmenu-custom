@@ -1,0 +1,6 @@
+* Moved
+
+This project has been moved.
+
+- [[https://gitlab.com/randomenduser/dmenu-custom][New location]]
+- [[https://jacquesmattheij.com/what-is-wrong-with-microsoft-buying-github/][Rationale]]
